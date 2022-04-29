@@ -1,5 +1,10 @@
 # AI-Hardware-and-Tools-W-S
 
+### Group Members:
+- Chaudhary Abuzar - 2019UCS2004
+- Arvind Meena - 2019UCS2016
+- Tanmay Gairola - 2019UCS2063
+
 ## [Project 1 Tiny ML](/Project%201)
 - **Objective**: To make a Rock-Paper-Scissors playing Python bot where you can gesture and play
 - **Description**: We made a Rock-Paper-Scissors playing bot in Python which plays along with you. The gestures you make on the webcam get interpreted as Rock, Paper or Scissors and subsequently, the bot makes a move. The winner is decided according to the rules of the game. We then made a TFLite model, ready to be deployed on smaller edge-devices which are low on processing power.
